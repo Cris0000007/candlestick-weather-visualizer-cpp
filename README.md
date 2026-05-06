@@ -1,4 +1,4 @@
-# otodecks-dj-audio-player-cpp
+# candlestick-weather-visualizer-cpp
 A C++ DJ audio player application developed using JUCE.
 
 # Text-Based Candlestick Data Visualization and Prediction
