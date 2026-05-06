@@ -1,6 +1,3 @@
-# candlestick-weather-visualizer-cpp
-A C++ DJ audio player application developed using JUCE.
-
 # Text-Based Candlestick Data Visualization and Prediction
 
 A C++ console-based application that visualizes candlestick-style data and performs simple prediction using a weighted moving average. This project demonstrates Object-Oriented Programming concepts, data filtering, prediction logic, and text-based data visualization.
